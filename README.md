@@ -1,7 +1,5 @@
 # COMMAND-LINE TASK MANAGER
 
-### Video Demo:  https://youtu.be/MRSd5U4BQR4
-
 ### Description:
 Task Manager is a command-line application written in Python. It allows users to manage their tasks effectively. With Task Manager, you can create new tasks, modify existing ones, mark tasks as complete, delete tasks, and even save your tasks to a CSV file for future reference.
 
